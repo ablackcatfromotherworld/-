@@ -1,0 +1,2002 @@
+{
+  "items": [
+    {
+      "id_movie": 135909,
+      "slug": "26215472-hancock-very-nearly-an-armful-2023",
+      "is_active": 1,
+      "shard_url": "/storage3/",
+      "year": 2023,
+      "title": "Hancock: Very Nearly an Armful",
+      "description": "",
+      "duration": 120,
+      "imdb_rating": 7.1,
+      "country": "",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/24a6327d4a52f59d8df398cde2a8e44e.webp",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/88d5f62d0c89be1e8e25f605406f9dbe.webp",
+      "views": 0,
+      "date_added": "2025-04-20 12:44:41",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "Hancock: Very Nearly an Armful.1080p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": null,
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745140307-26215472-hancock-very-nearly-an-armful-2023",
+      "cast": [
+        {
+          "id": 9819,
+          "hero": null,
+          "name": "Jack Dee",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/f4fdd148510279ad3d2dae6c54ebed64.webp"
+        },
+        {
+          "id": 432494,
+          "hero": null,
+          "name": "Tony Hancock",
+          "role": "actor",
+          "picture_url": ""
+        }
+      ],
+      "created_at": "2025-04-20 09:44:41",
+      "updated_at": "2025-04-20 09:44:53",
+      "genres": [
+        {
+          "id": "35",
+          "title": "Comedy"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "26215472",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135908,
+      "slug": "18070666-darkest-miriam-2024",
+      "is_active": 1,
+      "shard_url": "/storage4/",
+      "year": 2024,
+      "title": "Darkest Miriam",
+      "description": "Miriam Gordon lives in a fog of grief while working in a downtown public library branch. When a burgeoning love-affair coincides with her receiving a series of oddly threatening letters, Miriam's sheltered existence is cracked open.",
+      "duration": 87,
+      "imdb_rating": 6.8,
+      "country": "",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/b94f2cd95515134a3797c2fb3c1257fe.webp",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/a3d4220469864d0cc07f827d1a7ac920.webp",
+      "views": 0,
+      "date_added": "2025-04-20 12:43:49",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "Darkest Miriam.1080p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": "ruEiO1x9S1s",
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745140311-18070666-darkest-miriam-2024",
+      "cast": [
+        {
+          "id": 86897,
+          "hero": null,
+          "name": "Britt Lower",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/394ad52d3734d079a25288d62cd135e0.webp"
+        },
+        {
+          "id": 318954,
+          "hero": null,
+          "name": "Tom Mercier",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/eb28b464bae907857931a9e19e572d54.webp"
+        },
+        {
+          "id": 19964,
+          "hero": null,
+          "name": "Sook-Yin Lee",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/7d6a1eefe1715586e03eed5249605fd0.webp"
+        },
+        {
+          "id": 31178,
+          "hero": null,
+          "name": "Jean Yoon",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/4db085829950842880ea5b09893deb9f.webp"
+        },
+        {
+          "id": 613173,
+          "hero": null,
+          "name": "Jaimara Beals",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 121634,
+          "hero": null,
+          "name": "Clyde Whitham",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/1d616487c083954389a64147c5df1ffe.webp"
+        },
+        {
+          "id": 273872,
+          "hero": null,
+          "name": "Susannah Hoffmann",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/83738b88cf287e07226dfae33fb9c4ef.webp"
+        },
+        {
+          "id": 613174,
+          "hero": null,
+          "name": "Scott McCulloch",
+          "role": "actor",
+          "picture_url": ""
+        }
+      ],
+      "created_at": "2025-04-20 09:43:49",
+      "updated_at": "2025-04-20 09:44:17",
+      "genres": [
+        {
+          "id": "18",
+          "title": "Drama"
+        },
+        {
+          "id": "53",
+          "title": "Thriller"
+        },
+        {
+          "id": "10749",
+          "title": "Romance"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "18070666",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135907,
+      "slug": "20606154-mr-doom-2025",
+      "is_active": 1,
+      "shard_url": "/storage6/",
+      "year": 2025,
+      "title": "Mr Doom",
+      "description": "Jack and Charlie are an unlikely pair on a dangerous path to self destruction in a world of their own design. Both struggling to keep up a bygone lifestyle that revolves around a green felt table with six pockets and sixteen balls.",
+      "duration": 88,
+      "imdb_rating": 4.8,
+      "country": "",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/53bd74dd987c96a2668d953d278ba1c8.webp",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/0aa74d33724d67ff6f8fb3ab113d7ff7.webp",
+      "views": 0,
+      "date_added": "2025-04-20 10:54:22",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "Mr Doom.1080p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": "gPzbSil-lmQ",
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745133101-20606154-mr-doom-2025",
+      "cast": [
+        {
+          "id": 613147,
+          "hero": null,
+          "name": "Danny Parsons",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613148,
+          "hero": null,
+          "name": "Danny Sutcliffe",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 90264,
+          "hero": null,
+          "name": "Clint Boon",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/dcb6e4c5911c0fb11033fc3dfc7a3ad9.webp"
+        },
+        {
+          "id": 308452,
+          "hero": null,
+          "name": "Francesca Louise White",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/ba6970fe8790bcf76912c4ff59360b7c.webp"
+        },
+        {
+          "id": 256668,
+          "hero": null,
+          "name": "Madeleine Dunbar",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/c26f4096384ae514a2f0be3cd61c14f5.webp"
+        },
+        {
+          "id": 313069,
+          "hero": null,
+          "name": "Melanie Gayle",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/11924e5df9f800cf5caccbc9e7e4f105.webp"
+        },
+        {
+          "id": 410980,
+          "hero": null,
+          "name": "Hai Le",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/eab1ac5102551f8ba196eed89b94da00.webp"
+        },
+        {
+          "id": 613149,
+          "hero": null,
+          "name": "Francesca Reid",
+          "role": "actor",
+          "picture_url": ""
+        }
+      ],
+      "created_at": "2025-04-20 07:54:22",
+      "updated_at": "2025-04-20 07:54:48",
+      "genres": [
+        {
+          "id": "18",
+          "title": "Drama"
+        },
+        {
+          "id": "35",
+          "title": "Comedy"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "20606154",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135906,
+      "slug": "33307015-family-before-everything-2024",
+      "is_active": 1,
+      "shard_url": "/storage6/",
+      "year": 2024,
+      "title": "Family Before Everything",
+      "description": "In the streets of the Cold Springs area of Buffalo, NY, some people provide for their families by any means, making decisions that could end up hurting them in the long run.",
+      "duration": null,
+      "imdb_rating": 5.2,
+      "country": "",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/666a7e8145a9ee6cc6cd6f3acfff3d37.webp",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/34457ca18d298dc0cf5aae886b043609.webp",
+      "views": 0,
+      "date_added": "2025-04-20 09:17:28",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "Family Before Everything.1080p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": null,
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745125720-33307015-family-before-everything-2024",
+      "cast": [
+        {
+          "id": 472868,
+          "hero": null,
+          "name": "Curtis Arney",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613142,
+          "hero": null,
+          "name": "Nina Brown",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 66276,
+          "hero": null,
+          "name": "Benny the Butcher",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 66277,
+          "hero": null,
+          "name": "Adiyon Dashalon",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/729835da9188077c3ef6927c0a583e8c.webp"
+        },
+        {
+          "id": 613143,
+          "hero": null,
+          "name": "Adryanna Elmendorf",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 95872,
+          "hero": null,
+          "name": "Michael Erik",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/b0cfe062794fc22162485be02b1380e7.webp"
+        },
+        {
+          "id": 613144,
+          "hero": null,
+          "name": "Russell C Holt",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613145,
+          "hero": null,
+          "name": "Iesha Babydoll Owens",
+          "role": "actor",
+          "picture_url": ""
+        }
+      ],
+      "created_at": "2025-04-20 06:17:28",
+      "updated_at": "2025-04-20 06:17:55",
+      "genres": [
+        {
+          "id": "18",
+          "title": "Drama"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "33307015",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135905,
+      "slug": "23398348-rule-breakers-2025",
+      "is_active": 1,
+      "shard_url": "/storage5/",
+      "year": 2025,
+      "title": "Rule Breakers",
+      "description": "In a nation where educating girls is rebellion, a visionary woman sparks hope and opposition. Their courage ignites a movement that could transform their nation forever.",
+      "duration": 120,
+      "imdb_rating": 7.1,
+      "country": "",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/51c07b57e42ca8258664db018b1229cd.webp",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/77ab44cb67d39b58b4c32eba0f929f28.webp",
+      "views": 0,
+      "date_added": "2025-04-20 09:09:21",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "Rule Breakers.1080p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": "CW_P4zT6i9A",
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745126255-23398348-rule-breakers-2025",
+      "cast": [
+        {
+          "id": 138895,
+          "hero": null,
+          "name": "Nikohl Boosheri",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/e6dd3c54090adf5e187fb0912000d81c.webp"
+        },
+        {
+          "id": 10357,
+          "hero": null,
+          "name": "Ali Fazal",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/8256fbe5957fde3cfab2acf3816d4735.webp"
+        },
+        {
+          "id": 5180,
+          "hero": null,
+          "name": "Phoebe Waller-Bridge",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/22855fc1d08e450548b9e0fe59dad974.webp"
+        },
+        {
+          "id": 613134,
+          "hero": null,
+          "name": "Mustapha Adidou",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613135,
+          "hero": null,
+          "name": "Amber Afzali",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 270720,
+          "hero": null,
+          "name": "Waj Ali",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/6fb52ff12800a848d8574e61485091f3.webp"
+        },
+        {
+          "id": 309435,
+          "hero": null,
+          "name": "Mansour Badri",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613136,
+          "hero": null,
+          "name": "Tarik Belmekki",
+          "role": "actor",
+          "picture_url": ""
+        }
+      ],
+      "created_at": "2025-04-20 06:09:21",
+      "updated_at": "2025-04-20 06:09:49",
+      "genres": [
+        {
+          "id": "18",
+          "title": "Drama"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "23398348",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135904,
+      "slug": "12914718-normans-rare-guitars-documentary-2024",
+      "is_active": 1,
+      "shard_url": "/storage3/",
+      "year": 2024,
+      "title": "Norman's Rare Guitars Documentary",
+      "description": "This world-renowned institution is where legends jam, and find inspiration. This documentary chronicles the shop's unique spirit, as Norman Harris, its beloved founder, faces retirement, marking a turning point for this cultural haven.",
+      "duration": null,
+      "imdb_rating": 7.8,
+      "country": "",
+      "backdrop": "",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/75bdcc78fb148207c3121696987a95e2.webp",
+      "views": 0,
+      "date_added": "2025-04-20 08:44:12",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "Norman's Rare Guitars Documentary.1080p.bluray.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": null,
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745125360-12914718-normans-rare-guitars-documentary-2024",
+      "cast": [
+        {
+          "id": 1938,
+          "hero": null,
+          "name": "Jeff Daniels",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/1848394029b6bd51d005f8645fda0415.webp"
+        },
+        {
+          "id": 613129,
+          "hero": null,
+          "name": "Norman Harris",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 3535,
+          "hero": null,
+          "name": "Post Malone",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/89319a7134d4fe659b995ed48f9d3230.webp"
+        },
+        {
+          "id": 30188,
+          "hero": null,
+          "name": "Kiefer Sutherland",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/a6714f34d7a7c5741c1a849b99054925.webp"
+        },
+        {
+          "id": 613130,
+          "hero": null,
+          "name": "Tim Pierce",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 9462,
+          "hero": null,
+          "name": "Slash",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/b222605db29cd9242a5c62597814616e.webp"
+        },
+        {
+          "id": 613131,
+          "hero": null,
+          "name": "Jason Sinay",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 7515,
+          "hero": null,
+          "name": "Jeff Garlin",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/1d5b797087a64280cdf8de9cd9ed0af6.webp"
+        }
+      ],
+      "created_at": "2025-04-20 05:44:12",
+      "updated_at": "2025-04-20 05:44:41",
+      "genres": [
+        {
+          "id": "99",
+          "title": "Documentary"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "12914718",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135903,
+      "slug": "1643299-bob-the-builder-on-site-roads-and-bridges-2008",
+      "is_active": 1,
+      "shard_url": "/storage5/",
+      "year": 2008,
+      "title": "Bob the Builder on Site: Roads and Bridges",
+      "description": "Join Bob and his Can-Do Crew as they explore real life consruction sites! See diggers, mixers and trucks work together to build roads and bridges. From the first hole to the final asphalt cover, Bob the Builder teaches you everything you need to know.鈥擜nonymous",
+      "duration": 60,
+      "imdb_rating": 5.7,
+      "country": "",
+      "backdrop": "",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "",
+      "views": 0,
+      "date_added": "2025-04-20 08:41:56",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "Bob the Builder on Site: Roads and Bridges.1080p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": null,
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745125352-1643299-bob-the-builder-on-site-roads-and-bridges-2008",
+      "cast": [
+        {
+          "id": 348592,
+          "hero": null,
+          "name": "Marc Silk",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 138045,
+          "hero": null,
+          "name": "Lorelei King",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/a91a1a9ee71af493fef905e853614331.webp"
+        },
+        {
+          "id": 8524,
+          "hero": null,
+          "name": "Emma Tate",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/ce719052800eea3ca1bb11b1ba38bbe5.webp"
+        },
+        {
+          "id": 543434,
+          "hero": null,
+          "name": "Jack Horan",
+          "role": "actor",
+          "picture_url": ""
+        }
+      ],
+      "created_at": "2025-04-20 05:41:56",
+      "updated_at": "2025-04-20 05:42:08",
+      "genres": [
+        {
+          "id": "16",
+          "title": "Animation"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "1643299",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135902,
+      "slug": "0304680-seconds-to-spare-2002",
+      "is_active": 1,
+      "shard_url": "/storage1/",
+      "year": 2002,
+      "title": "Seconds to Spare",
+      "description": "When a deadly assassin hijacks a passenger train, he threatens to detonate a deadly can of poison that can wipe out an entire city, if he isn't given a 25 million dollar Ransom. While the cops are attempting to thwart the madman, they decide to call Former DEA agent Paul Blake (Antonio Sabato, Jr) the one man who can possibly stop the fiendish plot.鈥擲peed_n_up",
+      "duration": 100,
+      "imdb_rating": 4.6,
+      "country": "",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/37fa77f3a44589372515bac8e7a40099.webp",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/06074c9be55749b652d7cc57fc498806.webp",
+      "views": 0,
+      "date_added": "2025-04-20 08:29:18",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "Seconds to Spare.1080p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": "EodyVScJzVo",
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745124260-0304680-seconds-to-spare-2002",
+      "cast": [
+        {
+          "id": 34343,
+          "hero": null,
+          "name": "Antonio Sabato Jr.",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/a9a6ad4d6eb8a2611a321cde3534dcbd.webp"
+        },
+        {
+          "id": 121231,
+          "hero": null,
+          "name": "Kimberley Davies",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/22f2ccdf8f003f39a329e0139ba5766d.webp"
+        },
+        {
+          "id": 144582,
+          "hero": null,
+          "name": "Kate Beahan",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/91266367ff5b865f422f3fa8ccb8f9af.webp"
+        },
+        {
+          "id": 237957,
+          "hero": null,
+          "name": "Jerome Ehlers",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/618abf02aede7565da93abb6587b1d08.webp"
+        },
+        {
+          "id": 62486,
+          "hero": null,
+          "name": "Nick Tate",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/36e955e02a9b909909b4a3ed7aeca37d.webp"
+        },
+        {
+          "id": 613120,
+          "hero": null,
+          "name": "Alyssa-Jane Cook",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 255607,
+          "hero": null,
+          "name": "Victor Parascos",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/945e2efc01f5796cebfb48746c7a73b4.webp"
+        },
+        {
+          "id": 238335,
+          "hero": null,
+          "name": "Alexander Petersons",
+          "role": "actor",
+          "picture_url": ""
+        }
+      ],
+      "created_at": "2025-04-20 05:29:18",
+      "updated_at": "2025-04-20 05:29:44",
+      "genres": [
+        {
+          "id": "12",
+          "title": "Adventure"
+        },
+        {
+          "id": "28",
+          "title": "Action"
+        },
+        {
+          "id": "53",
+          "title": "Thriller"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "0304680",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135901,
+      "slug": "4934296-the-ritchie-blackmore-story-2015",
+      "is_active": 1,
+      "shard_url": "/storage4/",
+      "year": 2015,
+      "title": "The Ritchie Blackmore Story",
+      "description": "Documentary about legendary guitarist Richie Blackmore, who is best known for his work with rock bands Rainbow and Deep Purple.",
+      "duration": 134,
+      "imdb_rating": 7.6,
+      "country": "",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/3c238e30e0ac8b6d83c34da9bc5fb2bb.webp",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/ee90cbad2bd33f2242775e3f0489e4ce.webp",
+      "views": 0,
+      "date_added": "2025-04-20 08:17:29",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "The Ritchie Blackmore Story.1080p.bluray.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": null,
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745123769-4934296-the-ritchie-blackmore-story-2015",
+      "cast": [
+        {
+          "id": 329479,
+          "hero": null,
+          "name": "Ed Eales White",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/a4be3477c457b24c4d5ad2351c00ebd3.webp"
+        },
+        {
+          "id": 13153,
+          "hero": null,
+          "name": "Ritchie Blackmore",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/63e91549bf5c8e5b9e3c97b3bc790d95.webp"
+        },
+        {
+          "id": 13202,
+          "hero": null,
+          "name": "Steve Lukather",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/52c122ea2ecd8314ac4664291a64b9e3.webp"
+        },
+        {
+          "id": 3916,
+          "hero": null,
+          "name": "Brian May",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/917134777abbe445eb2792e4b5aaec9d.webp"
+        },
+        {
+          "id": 280071,
+          "hero": null,
+          "name": "Joe Satriani",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/291a15ddc72a660fbe0bf63839878737.webp"
+        },
+        {
+          "id": 57255,
+          "hero": null,
+          "name": "Gene Simmons",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/433b90e750f747e3761c0f81f81ce808.webp"
+        },
+        {
+          "id": 31426,
+          "hero": null,
+          "name": "Steve Vai",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/4ee19008600ea7cb7c029173cedd8185.webp"
+        },
+        {
+          "id": 17852,
+          "hero": null,
+          "name": "Lars Ulrich",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/8b3a88ccdfd9e9b0d20b8847b18ec8c5.webp"
+        }
+      ],
+      "created_at": "2025-04-20 05:17:29",
+      "updated_at": "2025-04-20 05:17:55",
+      "genres": [
+        {
+          "id": "99",
+          "title": "Documentary"
+        },
+        {
+          "id": "10402",
+          "title": "Music"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "4934296",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135900,
+      "slug": "9150192-a-working-man-2025",
+      "is_active": 1,
+      "shard_url": "/storage3/",
+      "year": 2025,
+      "title": "A Working Man",
+      "description": "Levon Cade left his profession behind to work construction and be a good dad to his daughter. But when a local girl vanishes, he's asked to return to the skills that made him a mythic figure in the shadowy world of counter-terrorism.",
+      "duration": 116,
+      "imdb_rating": 5.8,
+      "country": "",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/f77ab7ae21b66653993286b2faa050b9.webp",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/85499e80d06b91dd0866eb463f571c20.webp",
+      "views": 0,
+      "date_added": "2025-04-20 08:08:34",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "A Working Man.2160p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": "hyEVX-4uK_4",
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745121870-9150192-a-working-man-2025",
+      "cast": [
+        {
+          "id": 50281,
+          "hero": null,
+          "name": "Jason Statham",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/fc19905b82253d92715358fe9c80eada.webp"
+        },
+        {
+          "id": 5796,
+          "hero": null,
+          "name": "Jason Flemyng",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/69d235e8f123a9ab3cc39ced4a6efa27.webp"
+        },
+        {
+          "id": 107633,
+          "hero": null,
+          "name": "Merab Ninidze",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/7b3640be4b428b0aae0cbaa32bc1d671.webp"
+        },
+        {
+          "id": 183794,
+          "hero": null,
+          "name": "Maximilian Osinski",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/6a8a225631756522a852140d3fc194a7.webp"
+        },
+        {
+          "id": 49291,
+          "hero": null,
+          "name": "Cokey Falkow",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/2897e5ad48bb94c7a9c40d83c3ca86ff.webp"
+        },
+        {
+          "id": 29770,
+          "hero": null,
+          "name": "Michael Pe帽a",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/fe7666a34c29924f26eb91dd8b0e137f.webp"
+        },
+        {
+          "id": 1818,
+          "hero": null,
+          "name": "David Harbour",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/c022ff6d250bc7314d0b7e5938868d64.webp"
+        },
+        {
+          "id": 159480,
+          "hero": null,
+          "name": "Noemi Gonzalez",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/a9515bde912dbc3e351f0045ca56c6bb.webp"
+        }
+      ],
+      "created_at": "2025-04-20 05:08:34",
+      "updated_at": "2025-04-20 05:09:03",
+      "genres": [
+        {
+          "id": "28",
+          "title": "Action"
+        },
+        {
+          "id": "53",
+          "title": "Thriller"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "9150192",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135899,
+      "slug": "31314296-the-woman-in-the-yard-2025",
+      "is_active": 1,
+      "shard_url": "/storage5/",
+      "year": 2025,
+      "title": "The Woman in the Yard",
+      "description": "A mysterious woman repeatedly appears in a family's front yard, often delivering chilling warnings and unsettling messages, leaving them to question her identity, motives and the potential danger she might pose.",
+      "duration": 88,
+      "imdb_rating": 5.2,
+      "country": "",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/f499737e2728a56b0c47ffd992627911.webp",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/a3f6eccabf48a3872e2abd1cc97f27a1.webp",
+      "views": 0,
+      "date_added": "2025-04-20 08:02:34",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "The Woman in the Yard.2160p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": "QeL73oGMjHU",
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745123031-31314296-the-woman-in-the-yard-2025",
+      "cast": [
+        {
+          "id": 183853,
+          "hero": null,
+          "name": "Danielle Deadwyler",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/f63b956526b173ca6f5af2cae341c969.webp"
+        },
+        {
+          "id": 95512,
+          "hero": null,
+          "name": "Okwui Okpokwasili",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/c62b73f3a15b21a92b7903902ab9f4e9.webp"
+        },
+        {
+          "id": 411557,
+          "hero": null,
+          "name": "Peyton Jackson",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/b8b89a6cefc43a2494c9359de2ccc07d.webp"
+        },
+        {
+          "id": 475377,
+          "hero": null,
+          "name": "Estella Kahiha",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 4280,
+          "hero": null,
+          "name": "Russell Hornsby",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/7e94c04238356cfbf6fb770cfcf6df12.webp"
+        }
+      ],
+      "created_at": "2025-04-20 05:02:34",
+      "updated_at": "2025-04-20 05:02:51",
+      "genres": [
+        {
+          "id": "18",
+          "title": "Drama"
+        },
+        {
+          "id": "27",
+          "title": "Horror"
+        },
+        {
+          "id": "53",
+          "title": "Thriller"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "31314296",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135898,
+      "slug": "32989896-not-just-a-goof-2024",
+      "is_active": 1,
+      "shard_url": "/storage4/",
+      "year": 2024,
+      "title": "Not Just a Goof",
+      "description": "A documentary exploring the untold story of A Goofy Movie (1995). It follows a young creative team tackling their first Disney feature, its initial disappointment, and its surprising resurgence decades later.",
+      "duration": 87,
+      "imdb_rating": 7.8,
+      "country": "",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/d13aa5dad8500a5e06b079c6ddb4a56b.webp",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/773090630f8f8a68302ebef578dacd44.webp",
+      "views": 0,
+      "date_added": "2025-04-20 08:02:27",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "Not Just a Goof.2160p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": "VkBfSMLGSkU",
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745122914-32989896-not-just-a-goof-2024",
+      "cast": [
+        {
+          "id": 45864,
+          "hero": null,
+          "name": "Kevin Lima",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/442e6a237727c4ffa5772ebe651d77a3.webp"
+        },
+        {
+          "id": 613110,
+          "hero": null,
+          "name": "Gregory Perler",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 145777,
+          "hero": null,
+          "name": "Steve Moore",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 129778,
+          "hero": null,
+          "name": "Jeffrey Katzenberg",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/8a36bd2dcc6b44ab3ac8480d51ad8857.webp"
+        },
+        {
+          "id": 613111,
+          "hero": null,
+          "name": "Dan Rounds",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613112,
+          "hero": null,
+          "name": "Nancy Beiman",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613113,
+          "hero": null,
+          "name": "Chris Ure",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613114,
+          "hero": null,
+          "name": "Howard E. Green",
+          "role": "actor",
+          "picture_url": ""
+        }
+      ],
+      "created_at": "2025-04-20 05:02:27",
+      "updated_at": "2025-04-20 05:02:56",
+      "genres": [
+        {
+          "id": "99",
+          "title": "Documentary"
+        },
+        {
+          "id": "10751",
+          "title": "Family"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "32989896",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135897,
+      "slug": "36120468-pets-2025",
+      "is_active": 1,
+      "shard_url": "/storage1/",
+      "year": 2025,
+      "title": "Pets",
+      "description": "It explores the extraordinary relationship between animals and their people around the world. Highlighting dogs, cats, pigs, goats, and birds of prey, Pets takes us on a lovely journey that celebrates love, loss, and licks along the way.",
+      "duration": 79,
+      "imdb_rating": 7.1,
+      "country": "",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/6cc8de6696aa71d8847401f9d4405a15.webp",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/383b3856fa6f858a1c5b4329eaee3364.webp",
+      "views": 0,
+      "date_added": "2025-04-20 07:44:14",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "Pets.2160p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": "Te-wt5ShHAQ",
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745121833-36120468-pets-2025",
+      "cast": [
+        {
+          "id": 613086,
+          "hero": null,
+          "name": "Travis Ford",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613087,
+          "hero": null,
+          "name": "Adam Burke",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613088,
+          "hero": null,
+          "name": "Sterling Davis",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613089,
+          "hero": null,
+          "name": "Sergi R Basol铆",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613090,
+          "hero": null,
+          "name": "Kristin Hartness",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613091,
+          "hero": null,
+          "name": "Jay Yontz",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613092,
+          "hero": null,
+          "name": "Shinobu Takahashi",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613093,
+          "hero": null,
+          "name": "Shizue Funahashi",
+          "role": "actor",
+          "picture_url": ""
+        }
+      ],
+      "created_at": "2025-04-20 04:44:14",
+      "updated_at": "2025-04-20 04:44:43",
+      "genres": [
+        {
+          "id": "99",
+          "title": "Documentary"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "36120468",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135896,
+      "slug": "31181421-ihostage-0",
+      "is_active": 1,
+      "shard_url": "/storage4/",
+      "year": 2025,
+      "title": "iHostage",
+      "description": "When a gunman enters an Apple Store in the heart of Amsterdam, the police face a delicate challenge to resolve the standoff. Based on true events.",
+      "duration": 100,
+      "imdb_rating": 6,
+      "country": "",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/38b50c66ed3c96d27665d856aa73a246.webp",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/27af8062b00b155c8175d8ac4a560fcc.webp",
+      "views": 0,
+      "date_added": "2025-04-20 07:36:03",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "iHostage.1080p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": "Dhg-3ME2L6M",
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745121206-31181421-ihostage-0",
+      "cast": [
+        {
+          "id": 613081,
+          "hero": null,
+          "name": "Soufiane Moussouli",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 54532,
+          "hero": null,
+          "name": "Admir Sehovic",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 469655,
+          "hero": null,
+          "name": "Emmanuel Ohene Boafo",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 269110,
+          "hero": null,
+          "name": "Fockeline Ouwerkerk",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/8de3395eb536dc0f41d730bbdc90cb04.webp"
+        },
+        {
+          "id": 320995,
+          "hero": null,
+          "name": "Roosmarijn van der Hoek",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/497ebacd073bf2da7e9b018c4942506e.webp"
+        },
+        {
+          "id": 613082,
+          "hero": null,
+          "name": "Robin Boissevain",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 66427,
+          "hero": null,
+          "name": "Louis Talpe",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/c2ddf20fd7fde2185bd483127f1dce80.webp"
+        },
+        {
+          "id": 310133,
+          "hero": null,
+          "name": "Marcel Hensema",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/ee1425f74e35afe6eb86696af5ec57f0.webp"
+        }
+      ],
+      "created_at": "2025-04-20 04:36:03",
+      "updated_at": "2025-04-20 04:36:29",
+      "genres": [
+        {
+          "id": "18",
+          "title": "Drama"
+        },
+        {
+          "id": "53",
+          "title": "Thriller"
+        },
+        {
+          "id": "80",
+          "title": "Crime"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "31181421",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135895,
+      "slug": "26474783-dead-mail-2024",
+      "is_active": 1,
+      "shard_url": "/storage3/",
+      "year": 2024,
+      "title": "Dead Mail",
+      "description": "An ominous help note finds its way to a 1980s post office, connecting a dead letter investigator to a kidnapped keyboard technician.",
+      "duration": 106,
+      "imdb_rating": 6.1,
+      "country": "",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/65691fa88efa8a0344e05a44c3eff1b2.webp",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/a1fea005cff00f2ce1f06f462ce115c8.webp",
+      "views": 0,
+      "date_added": "2025-04-20 07:23:45",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "Dead Mail.1080p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": "KI3VcLtfusc",
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745120435-26474783-dead-mail-2024",
+      "cast": [
+        {
+          "id": 45345,
+          "hero": null,
+          "name": "Sterling Macer Jr.",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/3be06c43668a7ae041ba0bb30952c26e.webp"
+        },
+        {
+          "id": 104102,
+          "hero": null,
+          "name": "John Fleck",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/b1b5b9bd249ddc652ded3d86e15e2abb.webp"
+        },
+        {
+          "id": 257996,
+          "hero": null,
+          "name": "Tomas Boykin",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/c3de10eb5835d5513fd88733eee943a0.webp"
+        },
+        {
+          "id": 541869,
+          "hero": null,
+          "name": "Susan Priver",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613063,
+          "hero": null,
+          "name": "Micki Jackson",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 205098,
+          "hero": null,
+          "name": "Nick Heyman",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 208416,
+          "hero": null,
+          "name": "Sean Heyman",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 65504,
+          "hero": null,
+          "name": "Aaron Phifer",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/2885d28177f72fe1fa1eedf91dd7a850.webp"
+        }
+      ],
+      "created_at": "2025-04-20 04:23:45",
+      "updated_at": "2025-04-20 04:24:16",
+      "genres": [
+        {
+          "id": "18",
+          "title": "Drama"
+        },
+        {
+          "id": "27",
+          "title": "Horror"
+        },
+        {
+          "id": "80",
+          "title": "Crime"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "26474783",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135894,
+      "slug": "29359373-everybody-loves-touda-0",
+      "is_active": 1,
+      "shard_url": "/storage6/",
+      "year": 2024,
+      "title": "Everybody Loves Touda",
+      "description": "Touda is a Sheikha, a traditional Moroccan singer. Performing in the bars of her provincial town under the gaze of men, she plans to leave for the lights of Casablanca, to gain recognition and ensure a better future for her son.",
+      "duration": 102,
+      "imdb_rating": 6.6,
+      "country": "",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/7c69b1c6bbcead82c73b792c56d09181.webp",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/161f8d0bb8108b23d8b5d6bc46d59b59.webp",
+      "views": 0,
+      "date_added": "2025-04-20 07:21:48",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "Everybody Loves Touda.1080p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": "GfW6QwgM9eI",
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745120211-29359373-everybody-loves-touda-0",
+      "cast": [
+        {
+          "id": 510921,
+          "hero": null,
+          "name": "Nisrin Erradi",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613055,
+          "hero": null,
+          "name": "Joud Chamihy",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 583148,
+          "hero": null,
+          "name": "Jalila Talemsi",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613056,
+          "hero": null,
+          "name": "Lahcen Razzougui",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613057,
+          "hero": null,
+          "name": "El Moustafa Boutankite",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 103180,
+          "hero": null,
+          "name": "Abdellatif Chaouqi",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/9a4fc99057985487085263428071f9d2.webp"
+        },
+        {
+          "id": 613058,
+          "hero": null,
+          "name": "Abderrahim El Maniari",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613059,
+          "hero": null,
+          "name": "Elmaniari Abderrahim",
+          "role": "actor",
+          "picture_url": ""
+        }
+      ],
+      "created_at": "2025-04-20 04:21:48",
+      "updated_at": "2025-04-20 04:22:12",
+      "genres": [
+        {
+          "id": "18",
+          "title": "Drama"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "29359373",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135893,
+      "slug": "36242582-meet-the-khumalos-2025",
+      "is_active": 1,
+      "shard_url": "/storage4/",
+      "year": 2025,
+      "title": "Meet the Khumalos",
+      "description": "Two moms- once best friends turned enemies- go to war when the find out their children are madly in love.",
+      "duration": 92,
+      "imdb_rating": 5.1,
+      "country": "",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/02dc51a6578dbe2940d915b1b0abdc11.webp",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/fd0b254991b2973a42ca782fff8e91ae.webp",
+      "views": 0,
+      "date_added": "2025-04-20 07:04:24",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "Meet the Khumalos.2160p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": "zvLMwhL7BBg",
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745118727-36242582-meet-the-khumalos-2025",
+      "cast": [
+        {
+          "id": 613053,
+          "hero": null,
+          "name": "Ayanda Borotho",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 588278,
+          "hero": null,
+          "name": "Bonga Dlamini",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 588277,
+          "hero": null,
+          "name": "Nandipa Khubone",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 312974,
+          "hero": null,
+          "name": "Khanyi Mbau",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 393782,
+          "hero": null,
+          "name": "Khosi Ngema",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/50ed7b0df604da44a1f4db0ca9ce4263.webp"
+        },
+        {
+          "id": 613054,
+          "hero": null,
+          "name": "Siyabonga Melongisi Shibe",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 499456,
+          "hero": null,
+          "name": "Jesse Suntele",
+          "role": "actor",
+          "picture_url": ""
+        }
+      ],
+      "created_at": "2025-04-20 04:04:24",
+      "updated_at": "2025-04-20 04:04:42",
+      "genres": [
+        {
+          "id": "18",
+          "title": "Drama"
+        },
+        {
+          "id": "35",
+          "title": "Comedy"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "36242582",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135892,
+      "slug": "30790771-reversi-0",
+      "is_active": 1,
+      "shard_url": "/storage1/",
+      "year": 2024,
+      "title": "Reversi",
+      "description": "A man's undying love for his wife and son makes him go to great lengths to correct his past for a better future.",
+      "duration": 135,
+      "imdb_rating": 7.3,
+      "country": "",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/b0356de948d5525fc5f9514155fa9e9f.webp",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/d64d79e8aa9931bf741446416264aeec.webp",
+      "views": 0,
+      "date_added": "2025-04-20 07:03:47",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "Reversi.1080p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": "pEPZv7RoFu4",
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745118699-30790771-reversi-0",
+      "cast": [
+        {
+          "id": 522794,
+          "hero": null,
+          "name": "Beto Kusyairy",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613040,
+          "hero": null,
+          "name": "Shiqin Kamal",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 584371,
+          "hero": null,
+          "name": "Hasnul Rahmat",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 313937,
+          "hero": null,
+          "name": "Vanida Imran",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/d62107bddf72833109418abfc6adcdf9.webp"
+        },
+        {
+          "id": 613041,
+          "hero": null,
+          "name": "Azhan Rani",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 313898,
+          "hero": null,
+          "name": "Zahiril Adzim",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/eeb9fd208e63575edddc0b9600d5c105.webp"
+        },
+        {
+          "id": 613042,
+          "hero": null,
+          "name": "Qi Razali",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613043,
+          "hero": null,
+          "name": "Dzul Haziq",
+          "role": "actor",
+          "picture_url": ""
+        }
+      ],
+      "created_at": "2025-04-20 04:03:47",
+      "updated_at": "2025-04-20 04:04:14",
+      "genres": [
+        {
+          "id": "18",
+          "title": "Drama"
+        },
+        {
+          "id": "878",
+          "title": "Sci-Fi"
+        },
+        {
+          "id": "10749",
+          "title": "Romance"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "30790771",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135891,
+      "slug": "0119820-unmarried-couples-a-comedy-that-will-break-you-up-0",
+      "is_active": 1,
+      "shard_url": "/storage3/",
+      "year": 1997,
+      "title": "Unmarried Couples: A Comedy That Will Break You Up",
+      "description": "Marie and David are always arguing while their friends Sara and Samuel always seem to be happy together. Or are they? This year they decide to spend Christmas in the mountains together.",
+      "duration": 90,
+      "imdb_rating": 5.8,
+      "country": "",
+      "backdrop": "",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/15a554072ca4f04518d51a60dede4b5b.webp",
+      "views": 0,
+      "date_added": "2025-04-20 06:53:20",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "Unmarried Couples: A Comedy That Will Break You Up.1080p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": null,
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745118725-0119820-unmarried-couples-a-comedy-that-will-break-you-up-0",
+      "cast": [
+        {
+          "id": 253734,
+          "hero": null,
+          "name": "Lena Endre",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/7faaba9edfa2d68c1dded7cf1c4ec764.webp"
+        },
+        {
+          "id": 445847,
+          "hero": null,
+          "name": "Suzanne Reuter",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/9c143a840627cce5588c04d3cc0cc638.webp"
+        },
+        {
+          "id": 378527,
+          "hero": null,
+          "name": "Peter Dalle",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/050c06a77c538a0b20e952dba1125d91.webp"
+        },
+        {
+          "id": 84127,
+          "hero": null,
+          "name": "Johan Ulveson",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/38c667b512b6df5d47f26a2c075c2285.webp"
+        },
+        {
+          "id": 613028,
+          "hero": null,
+          "name": "Kicki Bramberg",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613029,
+          "hero": null,
+          "name": "Hans Henriksson",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 80476,
+          "hero": null,
+          "name": "Nils Moritz",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/2a8f8c3977ffff9f79bdffff5acb9c87.webp"
+        },
+        {
+          "id": 348582,
+          "hero": null,
+          "name": "Ulf Kvensler",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/4c8e925e85b975cdbdd9252e9d95de35.webp"
+        }
+      ],
+      "created_at": "2025-04-20 03:53:20",
+      "updated_at": "2025-04-20 03:53:45",
+      "genres": [
+        {
+          "id": "18",
+          "title": "Drama"
+        },
+        {
+          "id": "35",
+          "title": "Comedy"
+        },
+        {
+          "id": "10749",
+          "title": "Romance"
+        }
+      ],
+      "flag_quality": 8,
+      "release_date": null,
+      "imdb_id": "0119820",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_movie": 135890,
+      "slug": "29315015-september-says-2024",
+      "is_active": 1,
+      "shard_url": "/storage5/",
+      "year": 2024,
+      "title": "September Says",
+      "description": "When September is suspended from their school, her sister July begins to assert her own independence. Tension in the family builds on holiday Ireland as a series of surreal encounters test the them all to their limit.",
+      "duration": 100,
+      "imdb_rating": 6.4,
+      "country": "",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/e612710a02d75b1c781dace41e3ea0b8.webp",
+      "homepage": null,
+      "budget": null,
+      "tagline": "",
+      "poster": "https://cloudcdn.monster/images/p/w500/f85c7df9bfed05b8a52419b06667ca45.webp",
+      "views": 0,
+      "date_added": "2025-04-20 06:40:30",
+      "tmdb_prefix": null,
+      "has_metadata": 1,
+      "has_subtitles": 0,
+      "rel_title": "September Says.720p.web.[YTS]",
+      "rel_os_hash": null,
+      "rel_size_bytes": null,
+      "youtube": "v_Ekgj3KEO4",
+      "has_hash": 1,
+      "priority": 0,
+      "storage_slug": "1745118698-29315015-september-says-2024",
+      "cast": [
+        {
+          "id": 545875,
+          "hero": null,
+          "name": "Mia Tharia",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613023,
+          "hero": null,
+          "name": "Pascale Kann",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 145050,
+          "hero": null,
+          "name": "Rakhee Thakrar",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/3621b0b4bea653fe18abda0a6e0a9053.webp"
+        },
+        {
+          "id": 612926,
+          "hero": null,
+          "name": "Amelia Valentina Pankhania",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613024,
+          "hero": null,
+          "name": "Sienna Rose Velikova",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 511229,
+          "hero": null,
+          "name": "Niamh Moriarty",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 613025,
+          "hero": null,
+          "name": "Levi O&#x27;Sullivan",
+          "role": "actor",
+          "picture_url": ""
+        },
+        {
+          "id": 458054,
+          "hero": null,
+          "name": "Charlie Reid",
+          "role": "actor",
+          "picture_url": ""
+        }
+      ],
+      "created_at": "2025-04-20 03:40:30",
+      "updated_at": "2025-04-20 03:40:57",
+      "genres": [
+        {
+          "id": "18",
+          "title": "Drama"
+        }
+      ],
+      "flag_quality": 7,
+      "release_date": null,
+      "imdb_id": "29315015",
+      "is_watching": false,
+      "is_favorite": false
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "http://lmscript.xyz/v1/movies/index?sort=-date_added&page=1"
+    },
+    "first": {
+      "href": "http://lmscript.xyz/v1/movies/index?sort=-date_added&page=1"
+    },
+    "last": {
+      "href": "http://lmscript.xyz/v1/movies/index?sort=-date_added&page=3090"
+    },
+    "next": {
+      "href": "http://lmscript.xyz/v1/movies/index?sort=-date_added&page=2"
+    }
+  },
+  "_meta": {
+    "totalCount": 61782,
+    "pageCount": 3090,
+    "currentPage": 1,
+    "perPage": 20
+  }
+}

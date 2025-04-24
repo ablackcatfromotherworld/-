@@ -1,0 +1,1794 @@
+{
+  "items": [
+    {
+      "id_show": 38576,
+      "is_active": 1,
+      "title": "Yellowstone Wardens",
+      "description": "Discover the lives of conservation officers of Montana defending public lands, handling anti-poaching sting operations, and more.",
+      "year": 2023,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/e96c533f79867fe4f0346f81b0214d2e.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/4775570cab2eb16835694ac9829d8361.webp",
+      "country": "",
+      "imdb_id": "tt28210717",
+      "imdb_rating": 6.5,
+      "tmdb_id": 0,
+      "created_at": "2023-06-27 10:08:24",
+      "updated_at": "2025-04-21 06:18:28",
+      "duration": null,
+      "homepage": null,
+      "youtube": null,
+      "slug": "28210717-yellowstone-wardens-2023",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 545378,
+          "hero": null,
+          "name": "Kyle Miller",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 545377,
+          "hero": null,
+          "name": "Todd Anderson",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        }
+      ],
+      "genres": [
+        {
+          "id": "99",
+          "title": "Documentary"
+        }
+      ],
+      "date_added": "2025-04-21 06:18:28",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 43739,
+      "is_active": 1,
+      "title": "Filthy Fortunes",
+      "description": "Treasure hunter Matt Paxton searches cluttered homes across America for valuable items. He cleans properties and sells rare finds for profit.",
+      "year": 2025,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/fbaf93255b98ade9d2cbbe2c22acb9a3.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/bccb234d66e2a1ebdf12975e73716a74.webp",
+      "country": "",
+      "imdb_id": "tt35747121",
+      "imdb_rating": 6.7,
+      "tmdb_id": 0,
+      "created_at": "2025-03-10 05:47:37",
+      "updated_at": "2025-04-21 06:12:46",
+      "duration": null,
+      "homepage": null,
+      "youtube": "9TE8_FznKBk",
+      "slug": "35747121-filthy-fortunes-2025",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 95593,
+          "hero": null,
+          "name": "Matt Paxton",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/57e68e9fba2e1b53b1dd64978913e904.webp"
+        },
+        {
+          "id": 555543,
+          "hero": null,
+          "name": "Mike Kelleher",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 611020,
+          "hero": null,
+          "name": "Kayland Brock",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 611021,
+          "hero": null,
+          "name": "Chris Davis",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 89101,
+          "hero": null,
+          "name": "Greer Grammer",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/7175b41aefd20e33e579e07562f302ad.webp"
+        },
+        {
+          "id": 155429,
+          "hero": null,
+          "name": "Patti Negri",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/b4c770ebccf9676d249dbb48cb74444f.webp"
+        },
+        {
+          "id": 477947,
+          "hero": null,
+          "name": "Joshua Cole",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        }
+      ],
+      "genres": [],
+      "date_added": "2025-04-21 06:12:46",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 40494,
+      "is_active": 1,
+      "title": "Tracker",
+      "description": "Colter Shaw travels the country in his old-school RV, helping police and private citizens solve crimes and locate missing persons--until his latest case changes everything.",
+      "year": 2024,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/e388853175113110ce4ffe8153c77f74.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/7c9d57c5a8cd209380427746e259bcc4.webp",
+      "country": "",
+      "imdb_id": "tt13875494",
+      "imdb_rating": 7.1,
+      "tmdb_id": 0,
+      "created_at": "2024-02-13 13:35:38",
+      "updated_at": "2025-04-21 06:06:12",
+      "duration": null,
+      "homepage": null,
+      "youtube": "Hw6RlFyPbNM",
+      "slug": "13875494-tracker-2024",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 4073,
+          "hero": null,
+          "name": "Justin Hartley",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/fc954164bbb9d1baa9b8280425e50ba4.webp"
+        },
+        {
+          "id": 383831,
+          "hero": null,
+          "name": "Abby McEnany",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/b0b9d922e5d95fa89153217a9bf17211.webp"
+        },
+        {
+          "id": 71063,
+          "hero": null,
+          "name": "Fiona Rene",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/3549e98de4decaeb85c65aff7de27f70.webp"
+        },
+        {
+          "id": 353408,
+          "hero": null,
+          "name": "Eric Graise",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/0128434163197a5f18c12d5523a77310.webp"
+        },
+        {
+          "id": 149413,
+          "hero": null,
+          "name": "Robin Weigert",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/32d1eb93dd69d44a35759fd831bd8882.webp"
+        },
+        {
+          "id": 152082,
+          "hero": null,
+          "name": "Chris Lee",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/5ee191c751ac0573f6df7b8d03d1c9de.webp"
+        },
+        {
+          "id": 193602,
+          "hero": null,
+          "name": "Brent Sexton",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/a0e389ab17f098ef3bb9d43f4a0881a4.webp"
+        },
+        {
+          "id": 112325,
+          "hero": null,
+          "name": "Sofia Pernas",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/8cfa80c224be4549c8d8e88063a49772.webp"
+        }
+      ],
+      "genres": [
+        {
+          "id": "18",
+          "title": "Drama"
+        },
+        {
+          "id": "80",
+          "title": "Crime"
+        }
+      ],
+      "date_added": "2025-04-21 06:06:12",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 39975,
+      "is_active": 1,
+      "title": "Fatal Family Feuds",
+      "description": "Heartbreaking murders committed when feuds simmered between families. Statements from surviving families and friends, as well as from investigators who worked on the cases.",
+      "year": 2023,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/8361d5d4ce451eaeda995908d8e42e52.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/07fb9e7ef18f34140157db9607f8b185.webp",
+      "country": "",
+      "imdb_id": "tt30129206",
+      "imdb_rating": 7.4,
+      "tmdb_id": 0,
+      "created_at": "2023-12-04 06:30:04",
+      "updated_at": "2025-04-21 05:44:24",
+      "duration": null,
+      "homepage": null,
+      "youtube": "l2-JAkISY-c",
+      "slug": "30129206-fatal-family-feuds-2023",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 59789,
+          "hero": null,
+          "name": "Krizia Bajos",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/1ac34605b1fb335be1617b4f73e5d1a7.webp"
+        },
+        {
+          "id": 609721,
+          "hero": null,
+          "name": "Shawn Ruiz",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 607807,
+          "hero": null,
+          "name": "Dave Allen",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 323068,
+          "hero": null,
+          "name": "April Audia",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/017de6c134ecc21f670a6138a7dd3f94.webp"
+        },
+        {
+          "id": 546575,
+          "hero": null,
+          "name": "Hunter Linton",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 612247,
+          "hero": null,
+          "name": "David Callanan",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 607805,
+          "hero": null,
+          "name": "Chanel Rose Connor",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 546567,
+          "hero": null,
+          "name": "Ethan Reese Jones",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        }
+      ],
+      "genres": [
+        {
+          "id": "80",
+          "title": "Crime"
+        }
+      ],
+      "date_added": "2025-04-21 05:44:24",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 41896,
+      "is_active": 1,
+      "title": "Shoshimin: How to Become Ordinary",
+      "description": "J么gor么 Kobato, who once had a bitter experience as a result of a diversion called \"wisdom work,\" was determined to become a pure and humble citizen.",
+      "year": 2024,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/7742d6cd53211c75c4ec360fa8ffecec.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/170d210572339602fa5ac7fa48e58850.webp",
+      "country": "",
+      "imdb_id": "tt30844357",
+      "imdb_rating": 6.8,
+      "tmdb_id": 0,
+      "created_at": "2024-07-12 01:03:51",
+      "updated_at": "2025-04-21 05:22:40",
+      "duration": null,
+      "homepage": null,
+      "youtube": "ogzoSX6DYQc",
+      "slug": "30844357-how-to-become-ordinary-2024",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 432454,
+          "hero": null,
+          "name": "Sh没ichir么 Umeda",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 432163,
+          "hero": null,
+          "name": "Hina Yomiya",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/3c8217906a51472d8f0638dab83d2dda.webp"
+        },
+        {
+          "id": 607277,
+          "hero": null,
+          "name": "Makoto Furukawa",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 2213,
+          "hero": null,
+          "name": "Natsumi Fujiwara",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/b653b5ff04dba942564da50a731e94e5.webp"
+        },
+        {
+          "id": 1949,
+          "hero": null,
+          "name": "Saori Hayami",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/9ed9c86f2d4a98d786bb5b7dd1a42f86.webp"
+        },
+        {
+          "id": 507127,
+          "hero": null,
+          "name": "Yukina Shuto",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 201233,
+          "hero": null,
+          "name": "Yuuki Shin",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/7d05d04056ed4d080fc06fce61bb8184.webp"
+        },
+        {
+          "id": 430285,
+          "hero": null,
+          "name": "Asami Seto",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/2400b39c461033c8a148b565dd246eca.webp"
+        }
+      ],
+      "genres": [
+        {
+          "id": "16",
+          "title": "Animation"
+        },
+        {
+          "id": "18",
+          "title": "Drama"
+        },
+        {
+          "id": "9648",
+          "title": "Mystery"
+        }
+      ],
+      "date_added": "2025-04-21 05:22:40",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 43371,
+      "is_active": 1,
+      "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+      "description": "Yuke's out for redemption. Teaming up with his former students, he's ready to show the world what a red mage can do!.",
+      "year": 2025,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/1d1eea5a54fd69f983364522f88a0c91.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/ab928051b37c75eff86baa7c10205f76.webp",
+      "country": "",
+      "imdb_id": "tt33615810",
+      "imdb_rating": 6.5,
+      "tmdb_id": 0,
+      "created_at": "2025-01-11 19:08:37",
+      "updated_at": "2025-04-21 05:22:40",
+      "duration": null,
+      "homepage": null,
+      "youtube": "_5CVMsuuTiU",
+      "slug": "33615810-i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths-2025",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 428475,
+          "hero": null,
+          "name": "Drew Breedlove",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 2249,
+          "hero": null,
+          "name": "Lindsay Seidel",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/1c27ce33cc0af1595351f559cee0e513.webp"
+        },
+        {
+          "id": 115050,
+          "hero": null,
+          "name": "Marisa Duran",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/b6fd0b89080c10810c774789949b5d6a.webp"
+        },
+        {
+          "id": 535864,
+          "hero": null,
+          "name": "Rebecca Chiara Marano",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/0b4e136a98356675ab665b9640cdf0da.webp"
+        },
+        {
+          "id": 201216,
+          "hero": null,
+          "name": "Bryn Apprill",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 458735,
+          "hero": null,
+          "name": "Hiromu Mineta",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 601199,
+          "hero": null,
+          "name": "Hana Inami",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 434417,
+          "hero": null,
+          "name": "Natsumi Kawaida",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/e7dc58e84f67299f09dd7662972badcc.webp"
+        }
+      ],
+      "genres": [
+        {
+          "id": "12",
+          "title": "Adventure"
+        },
+        {
+          "id": "16",
+          "title": "Animation"
+        },
+        {
+          "id": "28",
+          "title": "Action"
+        }
+      ],
+      "date_added": "2025-04-21 05:22:40",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 41040,
+      "is_active": 1,
+      "title": "Black Butler",
+      "description": "Ciel Phantomhive takes care of the many unsettling events in Victorian England. Aided by Sebastian Michaelis, his loyal butler with seemingly inhuman abilities. But is there more to this black-clad butler than meets the eye?",
+      "year": 2008,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/7f6ddc46b21cd58d0bfd4260d79625ba.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/715ba8114274855b672cc43908909625.webp",
+      "country": "",
+      "imdb_id": "tt1316554",
+      "imdb_rating": 7.6,
+      "tmdb_id": 0,
+      "created_at": "2024-04-13 17:06:48",
+      "updated_at": "2025-04-21 05:20:33",
+      "duration": null,
+      "homepage": null,
+      "youtube": "EoipHZFNXv0",
+      "slug": "1316554-black-butler-2008",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 2304,
+          "hero": null,
+          "name": "J. Michael Tatum",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/eb01d8511db891c511d278090343bee4.webp"
+        },
+        {
+          "id": 2145,
+          "hero": null,
+          "name": "Brina Palencia",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/aae129bcf707ff056f3b4e220d30ac45.webp"
+        },
+        {
+          "id": 343520,
+          "hero": null,
+          "name": "Michael C. Pizzuto",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/02b8a4aa447da9fbcb3dcd377a4bc807.webp"
+        },
+        {
+          "id": 2229,
+          "hero": null,
+          "name": "Monica Rial",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/73e0b3a885941cfc09f7d7cb3b0e7adc.webp"
+        },
+        {
+          "id": 278333,
+          "hero": null,
+          "name": "Daisuke Ono",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/f290f11821abd974763902217d19dcd1.webp"
+        },
+        {
+          "id": 25843,
+          "hero": null,
+          "name": "Jason Liebrecht",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/e510ed24bd5000524fb2e1c0193f8ba2.webp"
+        },
+        {
+          "id": 2258,
+          "hero": null,
+          "name": "Ian Sinclair",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/e6ad28d1fa6189892b51448ccd10bd6d.webp"
+        },
+        {
+          "id": 565582,
+          "hero": null,
+          "name": "Gloria Ansell",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        }
+      ],
+      "genres": [
+        {
+          "id": "16",
+          "title": "Animation"
+        },
+        {
+          "id": "28",
+          "title": "Action"
+        },
+        {
+          "id": "35",
+          "title": "Comedy"
+        }
+      ],
+      "date_added": "2025-04-21 05:20:33",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 43900,
+      "is_active": 1,
+      "title": "Celebrity Big Brother: Late & Live",
+      "description": "AJ and Will bring you exclusive Big Brother content with juicy gossip, spicy reveals and hot takes in this must-watch hour.",
+      "year": 2024,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/885a9b3806a54b0465c770abaa1ece6b.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/36494e9f4ae64f93562a732f0c2a9c35.webp",
+      "country": "",
+      "imdb_id": "tt31945871",
+      "imdb_rating": 8.5,
+      "tmdb_id": 0,
+      "created_at": "2025-04-20 04:47:17",
+      "updated_at": "2025-04-21 04:46:54",
+      "duration": null,
+      "homepage": null,
+      "youtube": null,
+      "slug": "31945871-celebrity-big-brother-late-live-2024",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 510252,
+          "hero": null,
+          "name": "Will Best",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 146438,
+          "hero": null,
+          "name": "Lauren Simon",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/ca4e8016e43f014019dacc9b21f78af1.webp"
+        },
+        {
+          "id": 210735,
+          "hero": null,
+          "name": "Tiffany Pollard",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/65a1c4a74914a1eb72e0bf284fccffc6.webp"
+        },
+        {
+          "id": 172631,
+          "hero": null,
+          "name": "Jack P. Shepherd",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/189ecd245907610cb9d71d7bdd64f9a5.webp"
+        },
+        {
+          "id": 613105,
+          "hero": null,
+          "name": "Ben Price",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 613106,
+          "hero": null,
+          "name": "Gigi Simon",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 193559,
+          "hero": null,
+          "name": "A.J. Odudu",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/34398da6cc821c7e37f6bc077e918eb7.webp"
+        },
+        {
+          "id": 12899,
+          "hero": null,
+          "name": "Alan Carr",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/668bd273f3d9e07f9e0d89e432a1016a.webp"
+        }
+      ],
+      "genres": [],
+      "date_added": "2025-04-21 04:46:54",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 40108,
+      "is_active": 1,
+      "title": "Forest of Piano",
+      "description": "Two different people - the son of a prostitute, and the son of a professional musician - develop a bond of friendship through their love of playing the piano.",
+      "year": 2018,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/9e76c5a3eb88c67acfd9fb639c5063f3.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/cc8fbaca97acd1eccdd44e36d365dec4.webp",
+      "country": "",
+      "imdb_id": "tt8043492",
+      "imdb_rating": 7.3,
+      "tmdb_id": 0,
+      "created_at": "2023-12-26 14:52:19",
+      "updated_at": "2025-04-21 04:45:20",
+      "duration": null,
+      "homepage": null,
+      "youtube": null,
+      "slug": "8043492-forest-of-piano-2018",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 25824,
+          "hero": null,
+          "name": "Johnny Yong Bosch",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/b91d38f2132a6b9281fd62786a38d37b.webp"
+        },
+        {
+          "id": 141014,
+          "hero": null,
+          "name": "Erika Harlacher",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/cc1a2fb56d63f187ae8aee1b890dd090.webp"
+        },
+        {
+          "id": 275749,
+          "hero": null,
+          "name": "Kyle McCarley",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/04006717b1ba7ab83d3c0bbcae3d0956.webp"
+        },
+        {
+          "id": 320362,
+          "hero": null,
+          "name": "Griffin Burns",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/f9145fdb7ca11ff4c64364552be06771.webp"
+        },
+        {
+          "id": 1622,
+          "hero": null,
+          "name": "Dorothy Elias-Fahn",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/3578f1c837cebf73df173d1db04d8182.webp"
+        },
+        {
+          "id": 78643,
+          "hero": null,
+          "name": "Doug Erholtz",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/6d5fd38c8c346e387381b05b7ed1a1e6.webp"
+        },
+        {
+          "id": 1614,
+          "hero": null,
+          "name": "Reba Buhr",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/a9897a19d144cfda817a9514ed2cb985.webp"
+        },
+        {
+          "id": 47381,
+          "hero": null,
+          "name": "Tony Azzolino",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/8fed449bc6c0ee4751aa94f779d40a7e.webp"
+        }
+      ],
+      "genres": [
+        {
+          "id": "12",
+          "title": "Adventure"
+        },
+        {
+          "id": "16",
+          "title": "Animation"
+        },
+        {
+          "id": "18",
+          "title": "Drama"
+        }
+      ],
+      "date_added": "2025-04-21 04:45:20",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 209,
+      "is_active": 1,
+      "title": "Shark Tank",
+      "description": "Ambitious entrepreneurs present their breakthrough business concepts.",
+      "year": 2009,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/cdf0eb4bae0fbe4c7b71e3d1e4fb087c.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/031da6472bcc246e0b39f8970cad8c5e.webp",
+      "country": "",
+      "imdb_id": "tt1442550",
+      "imdb_rating": 7.7,
+      "tmdb_id": 30703,
+      "created_at": "2022-06-20 13:59:21",
+      "updated_at": "2025-04-21 03:49:42",
+      "duration": null,
+      "homepage": "http://abc.go.com/shows/shark-tank",
+      "youtube": null,
+      "slug": "1442550-shark-tank-2009",
+      "in_production": 1,
+      "views": 320,
+      "cast": [
+        {
+          "id": 92294,
+          "hero": null,
+          "name": "Kevin O&#x27;Leary",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/6a024398cab9f2d41090a1f2101e1aa3.webp"
+        },
+        {
+          "id": 92295,
+          "hero": null,
+          "name": "Phil Crowley",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/83c8dbb8c4f706a3397c35ebcdb25291.webp"
+        },
+        {
+          "id": 16778,
+          "hero": null,
+          "name": "Mark Cuban",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/ef1fa3db734ca1c2e1213283b2ce3f49.webp"
+        },
+        {
+          "id": 92296,
+          "hero": null,
+          "name": "Robert Herjavec",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/83caf22b5fecaa6617a1ec93811007e1.webp"
+        },
+        {
+          "id": 92297,
+          "hero": null,
+          "name": "Lori Greiner",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/b85b5db34009eae336846db1acc149b0.webp"
+        },
+        {
+          "id": 92298,
+          "hero": null,
+          "name": "Daymond John",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/65b65b1d4b387e0bd130f8aec331ddf3.webp"
+        },
+        {
+          "id": 92299,
+          "hero": null,
+          "name": "Barbara Corcoran",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/0ec7173407694459e581b25110443332.webp"
+        },
+        {
+          "id": 194813,
+          "hero": null,
+          "name": "Daniel Lubetzky",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        }
+      ],
+      "genres": [
+        {
+          "id": "10751",
+          "title": "Family"
+        }
+      ],
+      "date_added": "2025-04-21 03:49:42",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 5508,
+      "is_active": 1,
+      "title": "The Righteous Gemstones",
+      "description": "Follows a world-famous televangelist family with a long tradition of deviance, greed, and charitable work.",
+      "year": 2019,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/5e89b16f8c09c293d367d900f0a9a374.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/01b9af09f0aa9d69a388351f428e58ff.webp",
+      "country": "",
+      "imdb_id": "tt8634332",
+      "imdb_rating": 8.1,
+      "tmdb_id": 82782,
+      "created_at": "2022-06-20 13:59:21",
+      "updated_at": "2025-04-21 03:34:42",
+      "duration": null,
+      "homepage": "https://www.hbo.com/the-righteous-gemstones",
+      "youtube": "D2m9sP3VqB0",
+      "slug": "8634332-the-righteous-gemstones-2019",
+      "in_production": 1,
+      "views": 0,
+      "cast": [
+        {
+          "id": 19839,
+          "hero": null,
+          "name": "John Goodman",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/bf888ee07228e38431d1caa9a1f71485.webp"
+        },
+        {
+          "id": 609657,
+          "hero": null,
+          "name": "Danny McBride",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 79239,
+          "hero": null,
+          "name": "Adam Devine",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/71cad55f4b425babef82bc7f0d7bd712.webp"
+        },
+        {
+          "id": 29798,
+          "hero": null,
+          "name": "Edi Patterson",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/d83cb845277577a906662826f134dcdc.webp"
+        },
+        {
+          "id": 121437,
+          "hero": null,
+          "name": "Cassidy Freeman",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/8e2272f81ca9f8537b0b524f81598314.webp"
+        },
+        {
+          "id": 211741,
+          "hero": null,
+          "name": "Tim Baltz",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/fcbed47dceb8351b8cf69ec7bc1e7079.webp"
+        },
+        {
+          "id": 6777,
+          "hero": null,
+          "name": "Tony Cavalero",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/8f11301eff4752030ceaf9b001f0c599.webp"
+        },
+        {
+          "id": 71493,
+          "hero": null,
+          "name": "Gregory Alan Williams",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/b8af286df6d9552664bae142d164d393.webp"
+        }
+      ],
+      "genres": [
+        {
+          "id": "18",
+          "title": "Drama"
+        },
+        {
+          "id": "35",
+          "title": "Comedy"
+        }
+      ],
+      "date_added": "2025-04-21 03:34:42",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 43600,
+      "is_active": 1,
+      "title": "Suits LA",
+      "description": "Former federal prosecutor from New York, Ted Black reinvents himself as a lawyer for LA's powerful. His firm's crisis compels an ethical compromise to stay afloat.",
+      "year": 2025,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/15f7495e7139543a8016321815c3fb0a.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/392b2b4e7c6eb090b12cd713229b6691.webp",
+      "country": "",
+      "imdb_id": "tt31122751",
+      "imdb_rating": 5.6,
+      "tmdb_id": 0,
+      "created_at": "2025-02-24 09:48:46",
+      "updated_at": "2025-04-21 03:15:59",
+      "duration": null,
+      "homepage": null,
+      "youtube": "G0KMvx4y2-o",
+      "slug": "31122751-suits-la-2025",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 145735,
+          "hero": null,
+          "name": "Stephen Amell",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/9fdf7fcceae1de27baa450ed8e45205e.webp"
+        },
+        {
+          "id": 50967,
+          "hero": null,
+          "name": "Lex Scott Davis",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/17b6953e976dc2a347ce7cfce7870f40.webp"
+        },
+        {
+          "id": 84475,
+          "hero": null,
+          "name": "Josh McDermitt",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/bdf55eec3406dc2ce5079700e964a4d8.webp"
+        },
+        {
+          "id": 246474,
+          "hero": null,
+          "name": "Bryan Greenberg",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/37209df0a37429ebccf3a2c0c03c9ffe.webp"
+        },
+        {
+          "id": 155866,
+          "hero": null,
+          "name": "Troy Winbush",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 455007,
+          "hero": null,
+          "name": "Rachelle Goulding",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/eb829ac351dd2df369da042b1bec644f.webp"
+        },
+        {
+          "id": 7290,
+          "hero": null,
+          "name": "Maggie Grace",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/6ef3eb6eb6535d97f284ee12eed2e962.webp"
+        },
+        {
+          "id": 91863,
+          "hero": null,
+          "name": "Alice Lee",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/97572a60b7c8d2d3764e9a2677b623fc.webp"
+        }
+      ],
+      "genres": [
+        {
+          "id": "18",
+          "title": "Drama"
+        }
+      ],
+      "date_added": "2025-04-21 03:15:59",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 28760,
+      "is_active": 1,
+      "title": "The Last of Us",
+      "description": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+      "year": 2023,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/32e2ed21b24e82ff0ddd18a28637fc8d.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/91f1a0309586755a847784770562790e.webp",
+      "country": "",
+      "imdb_id": "tt3581920",
+      "imdb_rating": 8.7,
+      "tmdb_id": 0,
+      "created_at": "2023-01-16 06:26:45",
+      "updated_at": "2025-04-21 03:08:37",
+      "duration": null,
+      "homepage": "https://www.hbo.com/the-last-of-us",
+      "youtube": "8SWhBsbxmpk",
+      "slug": "3581920-the-last-of-us-2021",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 72119,
+          "hero": null,
+          "name": "Pedro Pascal",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/ae32dc9dbbec63e6831b6f4614eecf83.webp"
+        },
+        {
+          "id": 309950,
+          "hero": null,
+          "name": "Bella Ramsey",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/f6e6cc451feee825921a530abcf784c4.webp"
+        },
+        {
+          "id": 65913,
+          "hero": null,
+          "name": "Gabriel Luna",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/ee0a62184edd0a4d7ed90559a472056a.webp"
+        },
+        {
+          "id": 117068,
+          "hero": null,
+          "name": "Merle Dandridge",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/c844544b55eedb46011c6e1664bbd580.webp"
+        },
+        {
+          "id": 7535,
+          "hero": null,
+          "name": "Kaitlyn Dever",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/1ac5cba8777db99933090908d9006391.webp"
+        },
+        {
+          "id": 13955,
+          "hero": null,
+          "name": "Rutina Wesley",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/f0cb3cf045fb2f445a7c81dba1d9ec30.webp"
+        },
+        {
+          "id": 286564,
+          "hero": null,
+          "name": "Anna Torv",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/e651112e9f119b6936ba75793bba6f27.webp"
+        },
+        {
+          "id": 488808,
+          "hero": null,
+          "name": "Samuel Hoeksema",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/e1936b27d8e412441f52df0dc978ad71.webp"
+        }
+      ],
+      "genres": [
+        {
+          "id": "12",
+          "title": "Adventure"
+        },
+        {
+          "id": "18",
+          "title": "Drama"
+        },
+        {
+          "id": "28",
+          "title": "Action"
+        }
+      ],
+      "date_added": "2025-04-21 03:08:37",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 42412,
+      "is_active": 1,
+      "title": "Master Distiller Tournament of Champions",
+      "description": "Competition featuring the top distillers going up against each other in a grand elimination tournament.",
+      "year": 2022,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/3c9b411f7025138ec0517944aaf0983d.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/47c533b6bacc62cdabb7196ff9dd93e7.webp",
+      "country": "",
+      "imdb_id": "tt19874904",
+      "imdb_rating": 0,
+      "tmdb_id": 0,
+      "created_at": "2024-09-17 23:41:40",
+      "updated_at": "2025-04-21 02:20:45",
+      "duration": null,
+      "homepage": null,
+      "youtube": null,
+      "slug": "19874904-master-distiller-tournament-of-champions-2022",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 84616,
+          "hero": null,
+          "name": "Jeremy Schwartz",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/34dab1009cf864c95ec7ff30e2b3881e.webp"
+        },
+        {
+          "id": 84620,
+          "hero": null,
+          "name": "Eric &#x27;Digger&#x27; Manes",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 207048,
+          "hero": null,
+          "name": "Daniel Maner",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/f393909d30e49113da8c7c9687c054a4.webp"
+        },
+        {
+          "id": 84618,
+          "hero": null,
+          "name": "Mark Ramsey",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/fd02e1573c5830066f1e87b94efdceef.webp"
+        },
+        {
+          "id": 84619,
+          "hero": null,
+          "name": "Tim Smith",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/98c3db1477528b6c753760f0386f5375.webp"
+        },
+        {
+          "id": 84622,
+          "hero": null,
+          "name": "Steve Tickle",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/b8f99a4d2e6b4e9e309dddcbd5d451ae.webp"
+        },
+        {
+          "id": 207092,
+          "hero": null,
+          "name": "Richard Landry",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 586929,
+          "hero": null,
+          "name": "Benny McClure",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        }
+      ],
+      "genres": [],
+      "date_added": "2025-04-21 02:20:45",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 39889,
+      "is_active": 1,
+      "title": "Love Your Weekend with Alan Titchmarsh",
+      "description": "Alan Titchmarsh celebrates the great British countryside in the company of special guests.",
+      "year": 2020,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/0fc55b4916576bd33a8d171cde22b8f5.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/317ea5bf52e490eabebcde4724ebb0fb.webp",
+      "country": "",
+      "imdb_id": "tt13471320",
+      "imdb_rating": 7,
+      "tmdb_id": 0,
+      "created_at": "2023-11-24 01:13:18",
+      "updated_at": "2025-04-20 22:35:08",
+      "duration": null,
+      "homepage": null,
+      "youtube": null,
+      "slug": "13471320-love-your-weekend-with-alan-titchmarsh-2020",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 182739,
+          "hero": null,
+          "name": "Alan Titchmarsh",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/ad50cf30e00f1122a02d72b33d98d94f.webp"
+        },
+        {
+          "id": 90262,
+          "hero": null,
+          "name": "Lesley Joseph",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/eece7e48cf60fdded06baad466a75575.webp"
+        },
+        {
+          "id": 460465,
+          "hero": null,
+          "name": "David Domoney",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 544634,
+          "hero": null,
+          "name": "Camilla Bassett-Smith",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 544635,
+          "hero": null,
+          "name": "Andy Clarke",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 544636,
+          "hero": null,
+          "name": "Wayne Perrey",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 544637,
+          "hero": null,
+          "name": "Aleesha Hansel",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 544639,
+          "hero": null,
+          "name": "Tom Davis",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        }
+      ],
+      "genres": [],
+      "date_added": "2025-04-20 22:35:08",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 43897,
+      "is_active": 1,
+      "title": "The Narrow Road to the Deep North",
+      "description": "Burma Railway in 1943 and across the Pacific during World War II, charts the cruelty of war, the tenuousness of life and the impossibility of love, as seen through the eyes of an Australian doctor and prisoner of war.",
+      "year": 2025,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/afd1d9ccd35078d6a527636f4d6eeaa2.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/60f255e4d7a576ef6d15d0811a0cc056.webp",
+      "country": "",
+      "imdb_id": "tt11389652",
+      "imdb_rating": 7.2,
+      "tmdb_id": 0,
+      "created_at": "2025-04-20 04:28:31",
+      "updated_at": "2025-04-20 19:22:23",
+      "duration": null,
+      "homepage": null,
+      "youtube": "I30yq3lc-H8",
+      "slug": "11389652-the-narrow-road-to-the-deep-north-2025",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 47774,
+          "hero": null,
+          "name": "Jacob Elordi",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/36413632a9be30dc78c0aa3e2c0ea779.webp"
+        },
+        {
+          "id": 25309,
+          "hero": null,
+          "name": "Odessa Young",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/aa0873a60a709adbf7b42af29c53744b.webp"
+        },
+        {
+          "id": 3394,
+          "hero": null,
+          "name": "Ciar谩n Hinds",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/9c6b06238a0037fd13a203d8bd5c9c3c.webp"
+        },
+        {
+          "id": 348787,
+          "hero": null,
+          "name": "Fabian McCallum",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/f333fa90f201d6672a7221cd0c549af5.webp"
+        },
+        {
+          "id": 613067,
+          "hero": null,
+          "name": "Caelan McCarthy",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 350078,
+          "hero": null,
+          "name": "Eduard Geyl",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/dfe1f6c43da1673c0985e35a283aff9f.webp"
+        },
+        {
+          "id": 112811,
+          "hero": null,
+          "name": "Sam Parsonson",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/71c7b5b4f9d9045e8cd5d8640c0665b5.webp"
+        },
+        {
+          "id": 613068,
+          "hero": null,
+          "name": "Reagan Mannix",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        }
+      ],
+      "genres": [
+        {
+          "id": "10749",
+          "title": "Romance"
+        },
+        {
+          "id": "10752",
+          "title": "War"
+        }
+      ],
+      "date_added": "2025-04-20 19:22:23",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 33850,
+      "is_active": 1,
+      "title": "Hacks",
+      "description": "Explores a dark mentorship that forms between Deborah Vance, a legendary Las Vegas comedian, and an entitled, outcast 25-year-old.",
+      "year": 2021,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/c7727f5892f672cb6059a8ffd980b430.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/a5f8a72b97a6f30451967c0b8b4f9633.webp",
+      "country": "",
+      "imdb_id": "tt11815682",
+      "imdb_rating": 8.2,
+      "tmdb_id": 0,
+      "created_at": "2022-06-20 13:59:21",
+      "updated_at": "2025-04-20 19:13:49",
+      "duration": null,
+      "homepage": null,
+      "youtube": "pJcfoJCCJ50",
+      "slug": "11815682-hacks-2021",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 4735,
+          "hero": null,
+          "name": "Jean Smart",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/cc612e61b20f0b764b1bd80fec223998.webp"
+        },
+        {
+          "id": 131754,
+          "hero": null,
+          "name": "Hannah Einbinder",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/c09b631c6f974d7ee5c462e8c03a3e41.webp"
+        },
+        {
+          "id": 152093,
+          "hero": null,
+          "name": "Carl Clemons-Hopkins",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/e04ad1437cfbe1e8e3fe15721e42faf5.webp"
+        },
+        {
+          "id": 55627,
+          "hero": null,
+          "name": "Rose Abdoo",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/d403a4fc7baa4b3d7f87d14a4910bb32.webp"
+        },
+        {
+          "id": 117816,
+          "hero": null,
+          "name": "Mark Indelicato",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/c5480e1cf35f6af692018af96c42815f.webp"
+        },
+        {
+          "id": 276947,
+          "hero": null,
+          "name": "Paul W. Downs",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/abae6be2db2ddf585b603aea636c84a2.webp"
+        },
+        {
+          "id": 196350,
+          "hero": null,
+          "name": "Megan Stalter",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/a1b88c09932996ab726539b8d9c85dff.webp"
+        },
+        {
+          "id": 6721,
+          "hero": null,
+          "name": "Christopher McDonald",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/b22905f0107830c77776daddfbd707bb.webp"
+        }
+      ],
+      "genres": [
+        {
+          "id": "18",
+          "title": "Drama"
+        },
+        {
+          "id": "35",
+          "title": "Comedy"
+        }
+      ],
+      "date_added": "2025-04-20 19:13:49",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 38385,
+      "is_active": 1,
+      "title": "Harlem Globetrotters: Play It Forward",
+      "description": "A new generation of talented Harlem Globetrotters players and coaches showcase their unique skills and passions both on and off the court, with host Craig Robinson.",
+      "year": 2022,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/ae26b292e7589be557cd83aee97448f6.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/53a0f928d27b56138ef102410a32dbc5.webp",
+      "country": "",
+      "imdb_id": "tt27004380",
+      "imdb_rating": 0,
+      "tmdb_id": 0,
+      "created_at": "2023-06-07 01:20:52",
+      "updated_at": "2025-04-20 18:13:17",
+      "duration": null,
+      "homepage": null,
+      "youtube": "hUle21rpRzw",
+      "slug": "27004380-harlem-globetrotters-play-it-forward-2022",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 509387,
+          "hero": null,
+          "name": "Brawley Chisholm",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 509384,
+          "hero": null,
+          "name": "Donte Harrison",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 509388,
+          "hero": null,
+          "name": "Fatima Lister",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 509383,
+          "hero": null,
+          "name": "Rock Middleton",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 509385,
+          "hero": null,
+          "name": "Latif Rivers",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 509386,
+          "hero": null,
+          "name": "Cherelle George",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 509382,
+          "hero": null,
+          "name": "Corey Law",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 509381,
+          "hero": null,
+          "name": "Chandler Mack",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        }
+      ],
+      "genres": [],
+      "date_added": "2025-04-20 18:13:17",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 39967,
+      "is_active": 1,
+      "title": "The Unbelievable with Dan Aykroyd",
+      "description": "Discover history's most mysterious and bizarre inventions, people and things. From a 440-pound Syrian bear turned soldier to a man who survived a 43-inch iron bar shot through the head.",
+      "year": 2023,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/ad50e46cda7509709768ee00af87315f.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/4505813f83f40772421615f33559d1de.webp",
+      "country": "",
+      "imdb_id": "tt27053309",
+      "imdb_rating": 7,
+      "tmdb_id": 0,
+      "created_at": "2023-12-03 15:30:26",
+      "updated_at": "2025-04-20 17:39:24",
+      "duration": null,
+      "homepage": null,
+      "youtube": "RYuzO15CXDs",
+      "slug": "27053309-the-unbelieveable-with-dan-aykroyd-2023",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 20007,
+          "hero": null,
+          "name": "Dan Aykroyd",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/62b34e26d5a74b3820bb8710680e9a2a.webp"
+        },
+        {
+          "id": 482749,
+          "hero": null,
+          "name": "Sami Jarroush",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 546519,
+          "hero": null,
+          "name": "Austin Rogers",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 95602,
+          "hero": null,
+          "name": "Hakeem Oluseyi",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/2bbe2a396c149a9265ad5c16bf1d4f1f.webp"
+        },
+        {
+          "id": 199250,
+          "hero": null,
+          "name": "Mitch Horowitz",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 548546,
+          "hero": null,
+          "name": "Kavitha Davidson",
+          "role": "actor",
+          "picture_url": "/images/search_placeholder.png"
+        },
+        {
+          "id": 347387,
+          "hero": null,
+          "name": "Don Wildman",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/3a4f2669c8d23b2fb90648d35eff2611.webp"
+        },
+        {
+          "id": 126098,
+          "hero": null,
+          "name": "Adam Richman",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/0167bab0c335dc8d0289d2aa58827a44.webp"
+        }
+      ],
+      "genres": [
+        {
+          "id": "99",
+          "title": "Documentary"
+        }
+      ],
+      "date_added": "2025-04-20 17:39:24",
+      "is_watching": false,
+      "is_favorite": false
+    },
+    {
+      "id_show": 43607,
+      "is_active": 1,
+      "title": "Grosse Pointe Garden Society",
+      "description": "Follows four members of a suburban garden club, as they get caught up in murder and mischief, as they strive to flourish.",
+      "year": 2025,
+      "first_air_date": null,
+      "poster": "https://cloudcdn.monster/images/p/w500/3f88dcdf69d40faa7113148afb55110e.webp",
+      "backdrop": "https://cloudcdn.monster/images/b/w780/1fbb1a09ae3b475f1e5846e8ff50aa3c.webp",
+      "country": "",
+      "imdb_id": "tt26748764",
+      "imdb_rating": 6.9,
+      "tmdb_id": 0,
+      "created_at": "2025-02-24 15:38:10",
+      "updated_at": "2025-04-20 17:38:17",
+      "duration": null,
+      "homepage": null,
+      "youtube": "iwJ8P6GZvkU",
+      "slug": "26748764-grosse-pointe-garden-society-2025",
+      "in_production": 0,
+      "views": 0,
+      "cast": [
+        {
+          "id": 24660,
+          "hero": null,
+          "name": "Melissa Fumero",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/eb4c4ee24e06ee22e245eb327c5220a3.webp"
+        },
+        {
+          "id": 55383,
+          "hero": null,
+          "name": "AnnaSophia Robb",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/55b5c3a17d47718b62b3eebdce338162.webp"
+        },
+        {
+          "id": 87926,
+          "hero": null,
+          "name": "Ben Rappaport",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/85cfa24310e3fbb3087945b38dc7ee92.webp"
+        },
+        {
+          "id": 24300,
+          "hero": null,
+          "name": "Aja Naomi King",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/19c1df25d650bf51ff952989cf91481c.webp"
+        },
+        {
+          "id": 103277,
+          "hero": null,
+          "name": "Matthew Davis",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/e7e913cee2b80603409e371f092a9173.webp"
+        },
+        {
+          "id": 137250,
+          "hero": null,
+          "name": "Alexander Hodge",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/09543a2d2403eee5ad906deae775b864.webp"
+        },
+        {
+          "id": 82347,
+          "hero": null,
+          "name": "Nancy Travis",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/f2df5daf63694f6f88350a98fea47c4f.webp"
+        },
+        {
+          "id": 204333,
+          "hero": null,
+          "name": "Felix Wolfe",
+          "role": "actor",
+          "picture_url": "https://cloudcdn.monster/images/f/w185/13c11c6710570d261a9b380fd8f9fc1f.webp"
+        }
+      ],
+      "genres": [
+        {
+          "id": "18",
+          "title": "Drama"
+        },
+        {
+          "id": "80",
+          "title": "Crime"
+        },
+        {
+          "id": "9648",
+          "title": "Mystery"
+        }
+      ],
+      "date_added": "2025-04-20 17:38:17",
+      "is_watching": false,
+      "is_favorite": false
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "http://lmscript.xyz/v1/shows/index?sort=-date_added&page=1"
+    },
+    "first": {
+      "href": "http://lmscript.xyz/v1/shows/index?sort=-date_added&page=1"
+    },
+    "last": {
+      "href": "http://lmscript.xyz/v1/shows/index?sort=-date_added&page=717"
+    },
+    "next": {
+      "href": "http://lmscript.xyz/v1/shows/index?sort=-date_added&page=2"
+    }
+  },
+  "_meta": {
+    "totalCount": 14322,
+    "pageCount": 717,
+    "currentPage": 1,
+    "perPage": 20
+  }
+}
